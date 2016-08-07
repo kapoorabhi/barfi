@@ -2,7 +2,8 @@
   "name": "barfi",
   "homepage": "https://github.com/tarangkhandelwal/barfi",
   "authors": [
-    "Tarang Khandelwal <tarangkhandelwal@gmail.com>"
+    "Tarang Khandelwal <tarangkhandelwal@gmail.com>",
+    "Nishant Singh <nishant_singh@outlook.com"
   ],
   "description": "Ui toolkit",
   "main": "",
