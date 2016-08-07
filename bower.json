@@ -1,0 +1,21 @@
+{
+  "name": "barfi",
+  "homepage": "https://github.com/tarangkhandelwal/barfi",
+  "authors": [
+    "Tarang Khandelwal <tarangkhandelwal@gmail.com>"
+  ],
+  "description": "Ui toolkit",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^4.2.0"
+  }
+}
